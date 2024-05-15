@@ -117,14 +117,14 @@ body {
 }
 
 @media (max-width: 450px) {
-    .search input {
-        height: 40px;
-    }
+  .search input {
+    height: 40px;
+  }
 
-    .search button {
-        height: 40px;
-        width: 40px;
-    }
+  .search button {
+    height: 40px;
+    width: 40px;
+  }
 
   .weather .temp {
     font-size: 40px;
@@ -167,6 +167,6 @@ body {
   }
 
   .col div p {
-      font-size: 10px;
+    font-size: 10px;
   }
 }
